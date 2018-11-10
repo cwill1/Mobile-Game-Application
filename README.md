@@ -1,7 +1,7 @@
 # Mobile-Game-Application
 1. The game is played on an iOS device in the face-up
 position. The player uses the accelerometer to
-control the movement of the ball (the orange ball in
+control the movement of the ball (the white ball in
 the sample screen). Imagine the ball is being placed
 in a rectangular box with smooth surfaces and solid
 walls on all four sides, like a billiard table with no
